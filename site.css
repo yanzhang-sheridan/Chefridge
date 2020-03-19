@@ -1,0 +1,26 @@
+header{
+	position: relative;
+	height:15% auto;
+	background-color: #8EB942;
+}
+
+.nav{
+	display: inline-grid;
+	position: relative;
+	color: #483603;
+	font-size: 200% auto;
+	font-weight: bold;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#logo{
+	width: 10%;
+	height: 5%;
+	margin-bottom: 1%;
+	transform: translateY(10%);
+}
+
+footer{
+	background-color: #8EB942;
+}
